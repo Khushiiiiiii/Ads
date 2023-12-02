@@ -8,6 +8,7 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Checkbox from '@mui/material/Checkbox';
 
+
 const ImgMediaCard = ({ id, title, description, imageUrl, checked, onChange }) => {
     return (
         <Card sx={{ maxWidth: 345 }}>
