@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.applyBlur {
+  filter: 'blur(8px)'
+}
+
+/* Dashgraph.css */
+@media (max-width: 600px) {
+  /* Define styles for mobile view */
+  .dashgraph-container {
+      margin: 8px;
+      padding: 8px;
+  }
+}
+
