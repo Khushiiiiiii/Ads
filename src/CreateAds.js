@@ -64,7 +64,6 @@ const CreateAds = () => {
                 position: 'relative', // Add position relative
             }}
         >
-        
             <Typography variant="h6" align="left" style={{ marginBottom: '16px' }}>
                 Create Ads
             </Typography>
